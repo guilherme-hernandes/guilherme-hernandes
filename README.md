@@ -1,9 +1,5 @@
 # Oi, eu sou o Guilherme 👋
-Estudante de Sistemas de Informação na Universidade Santa Cecília (4º período, formatura prevista para dezembro/2028) e Auxiliar de Informática na Vertus Informática, em Santos/SP
 
-**Estou em busca de um estágio em Dados** (Análise de Dados, BI ou áreas próximas)
+Estudo Sistemas de Informação na Universidade Santa Cecília (4º período, formatura prevista para dezembro/2028) e estou buscando estágio em TI. Meu foco principal é **Dados** (Análise de Dados, BI ou algo por perto), mas estou aberto a outras áreas também.
 
-## 🔧 O que eu faço hoje
-- Cuido da bancada técnica da Vertus: em média 10 máquinas por semana (desktops, notebooks e NUCs), organizadas por lista de prioridade
-- Atendo clientes de contrato e avulsos de forma presencial, por telefone e por acesso remoto
-- Toda sexta-feira monto um relatório semanal com os chamados atendidos e em andamento e envio para a gestão
+Hoje trabalho como Auxiliar de Informática na Vertus Informática (comecei lá como estagiário em abril/2026). Cuido da bancada técnica, faço suporte a clientes no presencial, telefone, remoto e externo, e toda sexta-feira fecho um relatório dos chamados da semana para a gestão.
