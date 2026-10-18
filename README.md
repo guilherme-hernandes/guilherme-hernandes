@@ -18,3 +18,9 @@ A empresa mandou 3 planilhas com ~200 mil logs de segurança (firewall, Windows,
 - **Código:** C# / .NET • HTML • CSS • JavaScript
 - **Ferramentas:** Git • GitHub • Visual Studio Code
 - **Suporte e infraestrutura:** Manutenção de desktops, notebooks e NUCs • impressoras e roteadores • cabeamento de rede • Office 365 e Outlook
+
+## 📄 Certificações
+
+- Certificação Intermediária em Desenvolvimento Back-End (400h) • Universidade Santa Cecília • julho/2026
+- Certificação Intermediária em Desenvolvimento Front-End (320h) • Universidade Santa Cecília • março/2026
+- Git e GitHub: Compartilhando e Colaborando em Projetos (8h) • Alura • dezembro/2025
