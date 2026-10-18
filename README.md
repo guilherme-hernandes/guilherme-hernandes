@@ -3,3 +3,11 @@
 Estudo Sistemas de Informação na Universidade Santa Cecília (4º período, formatura prevista para dezembro/2028) e estou buscando estágio em TI. Meu foco principal é **Dados** (Análise de Dados, BI ou algo por perto), mas estou aberto a outras áreas também.
 
 Hoje trabalho como Auxiliar de Informática na Vertus Informática (comecei lá como estagiário em abril/2026). Cuido da bancada técnica, faço suporte a clientes no presencial, telefone, remoto e externo, e toda sexta-feira fecho um relatório dos chamados da semana para a gestão.
+
+## 🏆 Destaque
+
+### Piersec Risk Intelligence
+Projeto vencedor (1º de 9 equipes) do desafio Piersec no hackathon da Semana de TI da Unisanta, feito pela equipe Four-Core.
+A empresa mandou 3 planilhas com ~200 mil logs de segurança (firewall, Windows, acessos, e-mail e vulnerabilidades). O sistema padroniza tudo num modelo só, cruza as fontes e calcula um score de risco que explica de onde veio cada ponto.
+**Minha parte (com o João Vitor):** a visão do analista. Estudei os logs para entender cada campo e definir o que o analista precisa ver, da fila de riscos até a evidência no log original.
+`Python • FastAPI • SQLAlchemy • SQLite • Pytest`
