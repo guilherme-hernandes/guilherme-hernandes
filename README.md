@@ -11,3 +11,10 @@ Projeto vencedor (1º de 9 equipes) do desafio Piersec no hackathon da Semana de
 A empresa mandou 3 planilhas com ~200 mil logs de segurança (firewall, Windows, acessos, e-mail e vulnerabilidades). O sistema padroniza tudo num modelo só, cruza as fontes e calcula um score de risco que explica de onde veio cada ponto.
 **Minha parte (com o João Vitor):** a visão do analista. Estudei os logs para entender cada campo e definir o que o analista precisa ver, da fila de riscos até a evidência no log original.
 `Python • FastAPI • SQLAlchemy • SQLite • Pytest`
+
+## 🛠️ O que eu uso
+
+- **Dados:** SQL (SQL Server e MOngoDB) • Excel
+- **Código:** C# / .NET • HTML • CSS • JavaScript
+- **Ferramentas:** Git • GitHub • Visual Studio Code
+- **Suporte e infraestrutura:** Manutenção de desktops, notebooks e NUCs • impressoras e roteadores • cabeamento de rede • Office 365 e Outlook
