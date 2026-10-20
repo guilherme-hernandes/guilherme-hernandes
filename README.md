@@ -7,6 +7,7 @@ Hoje trabalho como Auxiliar de Informática na Vertus Informática (comecei lá 
 ## 🏆 Destaque - Piersec Risk Intelligence
 
 Projeto vencedor (1º de 9 equipes) do desafio Piersec no hackathon da Semana de TI da Unisanta, feito pela equipe Four-Core.
+[Certificado](imgs/Hackathon.pdf)
 
 A empresa mandou 3 planilhas com ~200 mil logs de segurança (firewall, Windows, acessos, e-mail e vulnerabilidades). O sistema padroniza tudo num modelo só, cruza as fontes e calcula um score de risco que explica de onde veio cada ponto.
 
